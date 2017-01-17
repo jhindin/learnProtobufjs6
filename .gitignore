@@ -1,0 +1,4 @@
+obj/**
+cxx/**
+**/*~
+node_modules/**
