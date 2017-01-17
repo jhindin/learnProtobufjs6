@@ -1,0 +1,22 @@
+{
+  "name": "protobufjstest",
+  "version": "1.0.0",
+  "description": "learning Protobufjs6",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhindin/learnProtobufjs6.git"
+  },
+  "author": "Joseph Hindin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhindin/learnProtobufjs6/issues"
+  },
+  "homepage": "https://github.com/jhindin/learnProtobufjs6#readme",
+  "dependencies": {
+    "protobufjs": "^6.5.0"
+  }
+}
