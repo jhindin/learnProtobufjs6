@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package foo.bar;
+
+
+message M1 {
+    string   s1 = 1;
+    int32    i1 = 2;
+}
